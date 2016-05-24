@@ -1,0 +1,10 @@
+{
+    "preset": "airbnb",
+    "validateIndentation": 2,
+    "maximumLineLength": 200,
+    "requireTrailingComma": false,
+    "requireCamelCaseOrUpperCaseIdentifiers": false,
+    "requireSpacesInsideObjectBrackets": "all",
+    "requireSpacesInAnonymousFunctionExpression": false,
+    "maximumLineLength": false
+}
