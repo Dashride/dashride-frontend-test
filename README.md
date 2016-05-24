@@ -1,5 +1,5 @@
 # dashride-frontend-test
-Dashride's Front-end Interview Test Skeleton
+Dashride's front-end interview coding challenge skeleton.
 
 *Based on [angular-seed](https://github.com/angular/angular-seed)*
 
