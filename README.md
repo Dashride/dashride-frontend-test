@@ -6,7 +6,7 @@ Dashride's front-end interview coding challenge skeleton.
 ------
 
 ## Instructions
-1. For this repository to make changes.
+1. Fork this repository, then clone your forked copy and pull request your result when done.
 2. `npm install` the dependencies. This will install bower & npm dependencies.
 3. `npm start` to run the app.
 4. `npm test` to run the tests.
