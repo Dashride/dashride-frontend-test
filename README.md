@@ -1,4 +1,6 @@
 # dashride-frontend-test
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Dashride/dashride-frontend-test.svg)](https://greenkeeper.io/)
 Dashride's front-end interview coding challenge skeleton.
 
 *Based on [angular-seed](https://github.com/angular/angular-seed)*
